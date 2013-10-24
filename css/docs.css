@@ -1,0 +1,15 @@
+body {
+  font-family: helvetica;
+}
+.container {
+  margin: 100px auto;
+  max-width: 700px;
+}
+.container img {
+  width: 100%;
+}
+.container .pull-left {
+  width: 55%;
+  float: left;
+  margin: 20px 20px 20px -80px;
+}
